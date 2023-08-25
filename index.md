@@ -1,15 +1,58 @@
----
-layout: default
-title: Student Blog
+
 ---
 
-## Luna's Page
+## Shubhay's Page
 
-Go to my [Github account](https://github.com/lunaiwa) !!
+Go to my [Github account](https://github.com/Vynz123) !!
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## About Me
+I am a Sophmore at Del Norte Highschool, I've been coding for 5 years now and I am 15 years old.
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+Intrests
+        - Food
+        - Coding and Enginerring
+        - Video Games
+        - Movies and Tv Shows
+
+Classes I'm Taking
+
+         Honors Humanities
+         Ap CSP
+         Ap Calc
+         Ap Chem
+         Ap Physics Mechanics.
+
+Coding Skills:
+
+        React and NextJS Web Design
+        React Native App Design
+        Languages I know, Python, Java Script, Type Script, C++,  Java, Swift.
+
+Favorites:
+
+        - Food: Chicken Biryani
+        - Drink: Boba
+        - Hobby: Going out with friends
+        - Place I've Been: Dubai
+        - Subject: Chemistry and Math
+        
+![alt text](images/Screenshot 2023-08-22 at 10.12.53 AM.png)
+
+This image contains a few things that relate to me!
+
+## Current Hacks
+        - JavaScript Project
+        - Python IO
+        - JavaScript Input
+        - JavaScript Output
+
+
+
+
+## Current Coding Projects
+
+        - Threads Clone Using NextJS, Clerk, MongoDb, Tailwind CSS
+        - Air Bnb Clone Using MERN Stack
+        - Task Manager App Using React-Native
+        - Uber Eats FullStack Clone Using React-Native
+        
