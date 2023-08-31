@@ -7,9 +7,6 @@ courses: {'csse': {'week': 2}, 'csp': {'week': 2}, 'csa': {'week': 0}}
 categories: ['C4.1']
 ---
 
-
-
-
 <html>
 <head>
     <style>
