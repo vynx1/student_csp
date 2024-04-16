@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Week 4 Lab NoteBook
-description: A Lab NoteBook Detailing this Week's Hack's
+title: Data Structures Project
+description: A Notebook reviewing Data Structures. 
 type: tangibles
 courses: {'csse': {'week': 1}, 'csp': {'week': 4}, 'csa': {'week': 0}}
 categories: ['C4.1']
@@ -10,10 +10,11 @@ categories: ['C4.1']
 # Lab Notebook Entry
 
 ## Objective:
-This week, I worked on five different web development hacks. Each hack focused on a specific aspect of web development, including HTML page layout, dynamic page layout switching, JavaScript code debugging, using if-else statements for variable comparison, and manipulating the DOM with JavaScript.
 
 ## HTML Page Layout Hack:
 In the first hack, I explored HTML page layout techniques. This involved understanding the HTML structure, the use of semantic elements like `<header>`, `<nav>`, `<section>`, and `<footer>`, and employing CSS for styling. Proper layout is essential for creating visually appealing and well-structured web pages.
+
+![Hello](../images/cpt1.png)
 
 ## Dynamic Page Layout Switching Hack:
 The second hack involved creating a web page that dynamically switches between different links or content. To achieve this, I delved into JavaScript event handling and DOM manipulation. Understanding event listeners and the manipulation of HTML elements allowed me to implement this feature.
